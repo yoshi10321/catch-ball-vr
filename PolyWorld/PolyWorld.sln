@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyWorld", "PolyWorld.csproj", "{087D4DC2-6576-66FD-4E9D-E254A308CC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyWorld.Editor", "PolyWorld.Editor.csproj", "{4A104FB4-39BD-C8F7-CD76-24E95009589B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087D4DC2-6576-66FD-4E9D-E254A308CC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087D4DC2-6576-66FD-4E9D-E254A308CC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087D4DC2-6576-66FD-4E9D-E254A308CC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087D4DC2-6576-66FD-4E9D-E254A308CC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A104FB4-39BD-C8F7-CD76-24E95009589B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A104FB4-39BD-C8F7-CD76-24E95009589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A104FB4-39BD-C8F7-CD76-24E95009589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A104FB4-39BD-C8F7-CD76-24E95009589B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
